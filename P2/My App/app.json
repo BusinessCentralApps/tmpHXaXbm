@@ -25,7 +25,7 @@
   "url": "https://github.com/BusinessCentralApps/helloworld.appsource",
   "help": "https://github.com/BusinessCentralApps/helloworld.appsource",
   "dependencies": [],
-  "version": "2.1.0.0",
+  "version": "3.0.0.0",
   "logo": "helloworld256x240.png",
   "id": "14f1bf4f-9eac-4cfc-9ecf-a7cd4b8ef606",
   "platform": "1.0.0.0"
